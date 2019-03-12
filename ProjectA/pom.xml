@@ -7,7 +7,7 @@
   <dependencies>
   <dependency>
    <groupId>com.suri</groupId>
-  <artifactId>ProjeectB</artifactId>
+  <artifactId>ProjectB</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   </dependency>
   </dependencies>
